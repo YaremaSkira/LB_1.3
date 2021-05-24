@@ -1,0 +1,2 @@
+D:\Project\OOP\LB1\LB_1.3\Debug\LB_1.3.exe
+D:\Project\OOP\LB1\LB_1.3\Debug\LB_1.3.pdb

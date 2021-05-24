@@ -1,0 +1,4 @@
+﻿  FuzzyNumber.cpp
+D:\Project\OOP\LB1\LB_1.3\FuzzyNumber.cpp(64,19): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\Project\OOP\LB1\LB_1.3\FuzzyNumber.cpp(76,19): warning C4804: '>': unsafe use of type 'bool' in operation
+  LB_1.3.vcxproj -> D:\Project\OOP\LB1\LB_1.3\Debug\LB_1.3.exe
